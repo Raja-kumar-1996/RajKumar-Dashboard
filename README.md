@@ -78,7 +78,7 @@ I thrive at the intersection of **technology, management, and Agile practices**,
 ---
 
 ## 📫 Contact Me & Social Links
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 [![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.google.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.whatsapp.com)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com)  
@@ -96,9 +96,8 @@ I thrive at the intersection of **technology, management, and Agile practices**,
 
 ---
 
-## 📊 GitHub Stats
-![Rajkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajkumar&show_icons=true&theme=radical)
+✨ **Fun fact:** I love coding, coffee, and exploring new tech trends!  
 
----
+**Thanks for visiting my profile!**  
 
-✨ **Fun fact:** I love coding, coffee, and exploring new tech trends!
+[![Download Resume](https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/Raja-kumar-1996/your-repo/raw/main/Resume.pdf)
