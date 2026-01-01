@@ -93,12 +93,6 @@ I thrive at the intersection of **technology, management, and Agile practices**,
 | Views | Followers | Following |
 |-------|-----------|-----------|
 | ![Profile Views](https://img.shields.io/badge/Views-454-blueviolet) | ![Followers](https://img.shields.io/badge/Followers-787-green) | ![Following](https://img.shields.io/badge/Following-323-orange) |
-| Views | Followers | Following |
-|------|-----------|-----------|
-| ![Views](https://img.shields.io/badge/Profile%20Views-1M+-blueviolet?style=for-the-badge) | ![Followers](https://img.shields.io/github/followers/Raja-kumar-1996?style=for-the-badge) | ![Following](https://img.shields.io/github/following/Raja-kumar-1996?style=for-the-badge) |
-![Profile Views](https://img.shields.io/badge/Views-1,000,000-blueviolet?style=flat)
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-1M+-blueviolet?style=for-the-badge)](https://github.com/Raja-kumar-1996)
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1M+-blueviolet?style=for-the-badge)
 
 
 ---
