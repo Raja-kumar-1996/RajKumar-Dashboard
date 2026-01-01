@@ -4,10 +4,6 @@
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-989-blueviolet?style=for-the-badge)
 
-## 🎆 Welcome 2026 🎉
-
-<!-- ================== NEW YEAR + PROFILE HEADER ================== -->
-
 <!-- ================== NEW YEAR 2026 SECTION ================== -->
 
 <div align="center">
@@ -43,87 +39,6 @@ Every experience in 2025 shaped a stronger version of me 🙏
 </div>
 
 <!-- ================== END ================== -->
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="450"/>
-
-<h3>👋 Bye Bye 2025</h3>
-
-Thank you for the lessons, challenges, and growth.  
-Every experience in 2025 shaped a stronger version of me 🙏
-
-</div>
-
----
-
-<!-- ================== PROFILE VIEWS ================== -->
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Raja-kumar-1996&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
-<!-- ================== GITHUB STATS ================== -->
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Raja-kumar-1996&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-kumar-1996&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Raja-kumar-1996&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raja-kumar-1996&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Raja-kumar-1996&theme=tokyonight&no-frame=true&row=1" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://github.com/Raja-kumar-1996/Raja-kumar-1996/blob/output/github-contribution-grid-snake.svg" />
-
-</div>
-
-<!-- ================== END ================== -->
-
----
 
 ## 🌟 About Me
 
