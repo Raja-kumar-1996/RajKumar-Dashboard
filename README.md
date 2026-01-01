@@ -4,6 +4,15 @@
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-989-blueviolet?style=for-the-badge)
 
+## 🎆 Bye Bye 2025 | Welcome 2026 🎉
+
+![New Year Celebration](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
+
+👋 **Bye Bye 2025** — Thank you for the lessons and growth.  
+🎉 **Welcome 2026** — A fresh start filled with ambition and energy.
+
+✨ **Happy New Year 2026!**  
+Here’s to innovation, success, and continuous learning 🚀
 
 ---
 
