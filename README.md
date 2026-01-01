@@ -28,16 +28,6 @@ Let’s build, learn, and achieve bigger milestones together 💻☕🚀
 
 <div align="center">
 
-<!-- Bye Bye 2025 GIF -->
-<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="450"/>
-
-<h3>👋 Bye Bye 2025</h3>
-
-Thank you for the lessons, challenges, and growth.  
-Every experience in 2025 shaped a stronger version of me 🙏
-
-</div>
-
 <!-- ================== END ================== -->
 
 ## 🌟 About Me
