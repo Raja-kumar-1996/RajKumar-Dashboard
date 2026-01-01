@@ -105,3 +105,5 @@ I thrive at the intersection of **technology, management, and Agile practices**,
 
 [![Download Resume](https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/Raja-kumar-1996/your-repo/raw/main/Resume.pdf)
 
+⭐ If you like this project, give it a star! ⭐⭐⭐⭐⭐⭐⭐⭐
+
