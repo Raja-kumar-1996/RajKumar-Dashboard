@@ -92,7 +92,7 @@ I thrive at the intersection of **technology, management, and Agile practices**,
 ## 👁️ Profile Overview
 | Views | Followers | Following |
 |-------|-----------|-----------|
-| ![Profile Views](https://img.shields.io/badge/Views-454-blueviolet) | ![Followers](https://img.shields.io/badge/Followers-787-green) | ![Following](https://img.shields.io/badge/Following-323-orange) |
+| ![Profile Views](https://img.shields.io/badge/Views-988-blueviolet) | ![Followers](https://img.shields.io/badge/Followers-1787-green) | ![Following](https://img.shields.io/badge/Following-323-orange) |
 
 
 ---
