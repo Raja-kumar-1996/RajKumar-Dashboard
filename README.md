@@ -39,6 +39,14 @@ I thrive at the intersection of **technology, management, and Agile practices**,
 
 ---
 
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raja-kumar-1996&theme=github-light&hide_border=true" width="550" height="150" />
+
+</div>
+
+
 ## 🛠️ Technical Skills
 
 **Frontend:**  
