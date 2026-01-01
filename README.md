@@ -6,13 +6,16 @@
 
 ## 🎆 Bye Bye 2025 | Welcome 2026 🎉
 
-![New Year Celebration](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
+<div align="center">
 
-👋 **Bye Bye 2025** — Thank you for the lessons and growth.  
-🎉 **Welcome 2026** — A fresh start filled with ambition and energy.
+<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="450" />
 
-✨ **Happy New Year 2026!**  
-Here’s to innovation, success, and continuous learning 🚀
+<h3>👋 Bye Bye 2025</h3>
+
+Thank you for the lessons, challenges, and growth.  
+Every step in 2025 shaped a better version of me 🙏
+
+</div>
 
 ---
 
