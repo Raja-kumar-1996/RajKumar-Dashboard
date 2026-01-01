@@ -94,6 +94,11 @@ I thrive at the intersection of **technology, management, and Agile practices**,
 |-------|-----------|-----------|
 | ![Profile Views](https://img.shields.io/badge/Views-454-blueviolet) | ![Followers](https://img.shields.io/badge/Followers-787-green) | ![Following](https://img.shields.io/badge/Following-323-orange) |
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Raja-kumar-1996/Raja-kumar-1996/blob/output/github-contribution-grid-snake.svg)
+
+
 ---
 
 ✨ **Fun fact:** I love coding, coffee, and exploring new tech trends!  
