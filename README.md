@@ -248,4 +248,18 @@ I thrive at the intersection of **technology, management, and Agile practices**,
 
 </div>
 
+## 🐍 Snake Game
+
+<div align="center">
+
+<a href="https://Raja-kumar-1996.github.io/REPO-NAME/snake-game.html" target="_blank">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400"/>
+</a>
+
+🎮 **Play Live Snake Game**  
+⬆️⬇️⬅️➡️ Use arrow keys to control the snake  
+
+</div>
+
+
 
