@@ -1,3 +1,22 @@
+<div align="center">
+
+<img src="assets/pinterest-new-year-2026.png" width="420" />
+
+<h2>✨ Happy New Year 2026 ✨</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Welcome+2026!;New+Dreams+%7C+New+Goals+%7C+New+Success;Peace+%7C+Happiness+%7C+Growth;Code+%7C+Learn+%7C+Grow+🚀" />
+
+<br/><br/>
+
+May 2026 bring you  
+<b>success 🌟, happiness 😊, peace 🕊️, and prosperity ✨</b>
+
+</div>
+
+
+
+
+
 # 👨‍💻 HR & Operations Lead | PMO | Scrum Master | Full-Stack Developer | Tech Enthusiast 💻
 
 ![Developer Banner](https://images.unsplash.com/photo-1593642532973-d31b6557fa68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZGV2ZWxvcGVyfHx8fHx8MTY55932800&ixlib=rb-4.0.3&q=80&w=1200)
