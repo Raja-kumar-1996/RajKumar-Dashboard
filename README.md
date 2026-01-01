@@ -2,7 +2,8 @@
 
 ![Developer Banner](https://images.unsplash.com/photo-1593642532973-d31b6557fa68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZGV2ZWxvcGVyfHx8fHx8MTY55932800&ixlib=rb-4.0.3&q=80&w=1200)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Raja-kumar-1996&color=blueviolet)](https://github.com/Raja-kumar-1996)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-989-blueviolet?style=for-the-badge)
+
 
 ---
 
