@@ -4,17 +4,21 @@
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-989-blueviolet?style=for-the-badge)
 
-## 🎆 Bye Bye 2025 | Welcome 2026 🎉
+## 🎆 Welcome 2026 🎉
 
 <!-- ================== NEW YEAR + PROFILE HEADER ================== -->
 
+<!-- ================== NEW YEAR 2026 SECTION ================== -->
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="520"/>
+<!-- New Year 2026 GIF (Your Provided GIF) -->
+<img src="https://www.eventstodayz.com/wp-content/uploads/2025/09/new-year-2026-characters-4.gif" width="520"/>
 
 <h1>🎆 Welcome 2026 🎆</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=7F3ACE&center=true&vCenter=true&width=700&lines=✨+Happy+New+Year+2026+✨;I'm+Raj+Kumar;HR+%26+Operations+Lead+%7C+PMO+%7C+Scrum+Master;Full+Stack+Developer;Code+%7C+Learn+%7C+Grow+🚀;New+Goals+New+Beginnings+New+Success" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=7F3ACE&center=true&vCenter=true&width=700&lines=✨+Happy+New+Year+2026+✨;I'm+Raj+Kumar;New+Year+%7C+New+Goals+%7C+New+Beginnings;Code+%7C+Learn+%7C+Grow+🚀;Success+%26+Happiness+Ahead" />
 
 <br/><br/>
 
@@ -23,6 +27,22 @@ May this year bring <b>growth, success, innovation, and happiness</b>.
 Let’s build, learn, and achieve bigger milestones together 💻☕🚀
 
 </div>
+
+---
+
+<div align="center">
+
+<!-- Bye Bye 2025 GIF -->
+<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="450"/>
+
+<h3>👋 Bye Bye 2025</h3>
+
+Thank you for the lessons, challenges, and growth.  
+Every experience in 2025 shaped a stronger version of me 🙏
+
+</div>
+
+<!-- ================== END ================== -->
 
 ---
 
