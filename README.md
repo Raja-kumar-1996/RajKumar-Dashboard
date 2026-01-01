@@ -6,16 +6,102 @@
 
 ## 🎆 Bye Bye 2025 | Welcome 2026 🎉
 
+<!-- ================== NEW YEAR + PROFILE HEADER ================== -->
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="450" />
+<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="520"/>
+
+<h1>🎆 Welcome 2026 🎆</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=7F3ACE&center=true&vCenter=true&width=700&lines=✨+Happy+New+Year+2026+✨;I'm+Raj+Kumar;HR+%26+Operations+Lead+%7C+PMO+%7C+Scrum+Master;Full+Stack+Developer;Code+%7C+Learn+%7C+Grow+🚀;New+Goals+New+Beginnings+New+Success" />
+
+<br/><br/>
+
+✨ <b>Happy New Year 2026!</b> ✨  
+May this year bring <b>growth, success, innovation, and happiness</b>.  
+Let’s build, learn, and achieve bigger milestones together 💻☕🚀
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="450"/>
 
 <h3>👋 Bye Bye 2025</h3>
 
 Thank you for the lessons, challenges, and growth.  
-Every step in 2025 shaped a better version of me 🙏
+Every experience in 2025 shaped a stronger version of me 🙏
 
 </div>
+
+---
+
+<!-- ================== PROFILE VIEWS ================== -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Raja-kumar-1996&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<!-- ================== GITHUB STATS ================== -->
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Raja-kumar-1996&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-kumar-1996&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Raja-kumar-1996&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raja-kumar-1996&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Raja-kumar-1996&theme=tokyonight&no-frame=true&row=1" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://github.com/Raja-kumar-1996/Raja-kumar-1996/blob/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+<!-- ================== END ================== -->
 
 ---
 
