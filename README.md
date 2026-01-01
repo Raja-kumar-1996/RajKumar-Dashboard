@@ -4,6 +4,25 @@
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-989-blueviolet?style=for-the-badge)
 
+<!-- ================= Happy New Year 2026 Section =========== -->
+<div align="center">
+
+<img src="assets/happy-new-year-2026.png" width="420" />
+
+<h2>✨ Happy New Year 2026 ✨</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Welcome+2026!;New+Dreams+%7C+New+Goals+%7C+New+Success;Peace+%7C+Happiness+%7C+Growth;Code+%7C+Learn+%7C+Grow+🚀" />
+
+<br/><br/>
+
+May this year bring you  
+<b>love ❤️, success 🌟, peace 🕊️, and happiness 😊</b>.  
+Wishing you a bright and successful **2026** ✨
+
+</div>
+
+<!-- ================== End Section ================== -->
+
 <!-- ================== NEW YEAR 2026 SECTION ================== -->
 
 <div align="center">
