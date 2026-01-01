@@ -1,5 +1,14 @@
 # 👨‍💻 HR & Operations Lead | PMO | Scrum Master | Full-Stack Developer | Tech Enthusiast 💻
 
+<div align="center">
+
+<img src="https://img.freepik.com/free-photo/gardening_23-2148020376.jpg?semt=ais_hybrid&w=740&q=80" width="420" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Growth+%7C+Learning+%7C+Consistency;Building+Skills+Every+Day;Happy+New+Year+2026+🌱" />
+
+</div>
+
+
 ## 🌟 About Me
 
 I am a **versatile professional** with a unique blend of **technical expertise, Agile methodology, and leadership skills**. I am passionate about building **secure, scalable, and efficient applications** while managing **operations, projects, and teams**.  
