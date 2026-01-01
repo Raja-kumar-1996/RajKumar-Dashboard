@@ -235,3 +235,17 @@ I thrive at the intersection of **technology, management, and Agile practices**,
 
 </div>
 
+## 🎮 Bounce Ball Game
+
+<div align="center">
+
+<a href="https://Raja-kumar-1996.github.io/REPO-NAME/bounce-game.html" target="_blank">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" />
+</a>
+
+🎯 **Play the game live**  
+⬅️ ➡️ Use arrow keys to control the paddle  
+
+</div>
+
+
